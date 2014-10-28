@@ -27,6 +27,7 @@ public class Main {
             System.out.println("Bad magician!");
         }else{
             System.out.println("Your card is: "+card);
+            //Aquí te falta la de "Volunteer Cheated!" 
         }
     }
 }
